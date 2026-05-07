@@ -21,6 +21,7 @@
 | Moteur | Pays dominant | Index propre | Page du guide |
 |---|---|---|---|
 | **Baidu** (百度) | 🇨🇳 Chine | ✅ | [→ docs/baidu.md](/docs/baidu.md) |
+| **Yahoo! JAPAN** (ヤフー) | 🇯🇵 Japon | ❌ (Google) | [→ docs/yahoo-japan.md](/docs/yahoo-japan.md) |
 | **Naver** (네이버) | 🇰🇷 Corée du Sud | ✅ | [→ docs/naver.md](/docs/naver.md) |
 
 ### 🌍 Europe de l'Est
@@ -57,6 +58,7 @@ moteurs-recherche-filtres/
     ├── yandex.md          ← opérateurs Yandex
     ├── brave.md           ← opérateurs Brave Search
     ├── baidu.md           ← opérateurs Baidu (Chine)
+    ├── yahoo-japan.md     ← Yahoo! JAPAN (Japon)
     ├── naver.md           ← opérateurs Naver (Corée du Sud)
     ├── seznam.md          ← opérateurs Seznam (Tchéquie)
     ├── securite-osint.md  ← Google Dorking, Shodan, Censys, ZoomEye…
@@ -86,7 +88,7 @@ Pour les différences et particularités de chaque moteur, consultez les pages i
 1. **Débutant** — Commencez par la page [Google](/docs/google.md), c'est le moteur le plus complet en opérateurs.
 2. **Intermédiaire** — Consultez le [comparatif](/docs/comparatif.md) pour savoir quels opérateurs fonctionnent sur quel moteur.
 3. **Avancé** — Explorez les spécificités de [Yandex](/docs/yandex.md) (opérateurs de proximité uniques) et [Brave](/docs/brave.md) (Goggles).
-4. **Marchés asiatiques** — Consultez [Baidu](/docs/baidu.md) pour la Chine et [Naver](/docs/naver.md) pour la Corée du Sud (fonctionnement très différent des moteurs occidentaux).
+4. **Marchés asiatiques** — Consultez [Baidu](/docs/baidu.md) pour la Chine, [Yahoo! JAPAN](/docs/yahoo-japan.md) pour le Japon et [Naver](/docs/naver.md) pour la Corée du Sud.
 5. **Sécurité / OSINT** — La page [securite-osint.md](/docs/securite-osint.md) couvre le Google Dorking, Shodan, Censys, ZoomEye et les outils de threat intelligence.
 
 ---

@@ -26,6 +26,9 @@ Opérateurs logiques (`AND`/`OR`/`NOT`) · Filtres de contenu (`intitle:`, `inbo
 ### [Baidu 百度](/docs/baidu.md)
 Opérateurs de base · `site:` et `inurl:` · `intitle:` et `filetype:` · Filtres temporels (interface + paramètre `lm=`) · Recherche avancée via l'interface · Limites (censure, écosystème fermé)
 
+### [Yahoo! JAPAN ヤフージャパン](/docs/yahoo-japan.md)
+Utilise l'algorithme Google (mêmes opérateurs) · Différences dans les SERP (Yahoo Shopping, News, Chiebukuro, Auctions) · Écosystème Yahoo + LINE + PayPay · Publicité : Yahoo! JAPAN Ads vs Google Ads · Conseils SEO pour le marché japonais
+
 ### [Naver 네이버](/docs/naver.md)
 Opérateurs limités (`" "`, `site:`, `filetype:`) · Filtrage par catégorie via l'interface (Blog, Café, News, Shopping, KnowledgeIn…) · Recherche intégrée (통합검색) · Outils : Search Advisor, DataLab, Keyword Tool · Conseils pour non-coréanophones
 
