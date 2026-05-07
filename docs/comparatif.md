@@ -11,6 +11,8 @@
 - ⚠️ Support partiel ou comportement différent
 - 🔄 Équivalent sous un autre nom
 
+> **Note** : **Yahoo! JAPAN** n'apparaît pas comme colonne séparée car il utilise l'algorithme de Google depuis 2010. Tous les opérateurs Google fonctionnent à l'identique sur Yahoo! JAPAN. Les différences se situent dans les SERP (intégration Yahoo Shopping, News, Chiebukuro, LINE) et non dans la syntaxe de recherche. Voir [docs/yahoo-japan.md](yahoo-japan.md) pour les détails.
+
 ---
 
 ## Opérateurs de base
@@ -131,6 +133,7 @@
 | Opérateurs Bing-specific | **Bing** | Opérateurs uniques : `ip:`, `contains:`, `near:` |
 | Web chinois | **Baidu** | Index dominant en Chine, écosystème intégré |
 | Marché sud-coréen | **Naver** | Portail intégré, contenu local + communautaire |
+| Marché japonais | **Yahoo! JAPAN** | Portail + écosystème LINE/PayPay, mêmes opérateurs que Google |
 | Marché tchèque | **Seznam** | Index local indépendant, Mapy.cz, Zboží.cz |
 | Sécurité / OSINT | **Shodan, Censys** | Scan d'appareils, certificats, ports ouverts |
 | Google Dorking | **Google + GHDB** | Base de dorks pour trouver des données exposées |
